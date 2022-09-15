@@ -54,6 +54,11 @@
 # lst.sort()
 # print(lst)
 
+# 11)Write a program to reverse a string word by word.
+# str="sita ram"
+# str1=str.split()[::-1]
+# print(str1)
+
 # 13
 # l1=['a','b','c']
 # l2=[1,2,3]
@@ -67,7 +72,6 @@
 # dic4=dic1|dic2|dic3
 # print(dic4)
 
-
 # 14)Write a program to generate and print a list of the first and last 5 elements where the values
 # are square of numbers between 1 and 30 (both included)
 # l = []
@@ -79,21 +83,11 @@
 # print(l1)
 # print(l2)
 
-
-
 # 18)Write a program to demonstrate all the available operators in python.
 # a=13
 # b=20
 # c=a+b,a-b,a*b,a%b,a/b,a//b,a!=b,a==b,a>=b,a<=b,a<b,a>b
 # print(c)
-
-# 11)Write a program to reverse a string word by word.
-# str="sita ram"
-# str1=str.split()
-# print(str1)
-# str2=str1.reverse()
-# print(str2)
-
 
 # 20
 # dict = {1: "one", 2: "two", 3: "three"}
