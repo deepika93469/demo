@@ -60,9 +60,42 @@
 # l3=zip(l1,l2)
 # print(dict(l3))
 
+# 17 concatinate 3 dicts
+# dic1={1:10,2:20}
+# dic2={3:30,4:40}
+# dic3={5:50,6:60}
+# dic4=dic1|dic2|dic3
+# print(dic4)
+
+
+# 14)Write a program to generate and print a list of the first and last 5 elements where the values
+# are square of numbers between 1 and 30 (both included)
+# l = []
+# for i in range(1, 31):
+#     l.append(i*i)
+# print(l)
+# l1=l[:5]
+# l2=l[-5:]
+# print(l1)
+# print(l2)
+
+
+
+# 18)Write a program to demonstrate all the available operators in python.
+# a=13
+# b=20
+# c=a+b,a-b,a*b,a%b,a/b,a//b,a!=b,a==b,a>=b,a<=b,a<b,a>b
+# print(c)
+
+# 11)Write a program to reverse a string word by word.
+# str="sita ram"
+# str1=str.split()
+# print(str1)
+# str2=str1.reverse()
+# print(str2)
+
 
 # 20
 # dict = {1: "one", 2: "two", 3: "three"}
 # dict1 = dict[3] = "four,five"
 # print(dict)
-
